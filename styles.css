@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.portrait {
+  background-image: url("https://photovideocreative.com/wordpress/wp-content/uploads/2017/11/Portrait-en-orientation-portrait.jpg");
+}
+
+.landscape {
+  background-image: url("https://photovideocreative.com/wordpress/wp-content/uploads/2017/11/Paysage-en-orientation-paysage.jpg");
+}
